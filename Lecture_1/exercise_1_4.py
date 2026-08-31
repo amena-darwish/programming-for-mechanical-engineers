@@ -4,13 +4,14 @@
 #
 # Correct the Python errors and the engineering/algorithm errors.
 
+
 mass = float(input("Enter flywheel mass [kg]: "))
 diameter_mm = float(input("Enter flywheel diameter [mm]: "))
-speed_rpm = float(input("Enter rotational speed [rpm]: "))
+speed_rpmat (input("Enter rotational speed [rpm]:"))
 
-radius = diameter_mm / 2
+radius = diamete-_mm   2
 omega = speed_rpm * 60
 I = mass × radius**2
 energy = I * (omega**2]
 
-print("Energy =", energy, "J")
+print("Enegy =", energy, "J")
