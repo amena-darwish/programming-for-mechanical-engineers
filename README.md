@@ -18,8 +18,10 @@ The final Python solutions should be written and tested in **Spyder**.
 ## Lectures
 
 - **Lecture 1 — Basic Python and Engineering Calculations**
-- **Lecture 2 — Coming soon**
-- **Lecture 3 — Coming soon**
+- **Lecture 2 — Functions, Parameters, and Program Structure**
+- **Lecture 3 — Loops, Search, Scope, and Nested Loops**
+- **Lecture 4 — Reading and Writing CSV Files**
+- **Lecture 5 — Lists and Dictionaries**
 
 More exercises will be added during the course.
 
